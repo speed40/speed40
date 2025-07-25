@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Speedk (ID: 005)
+# 👋 Hi, I’m Speedyk (ID: 005)
 
 Welcome to my little corner of GitHub!  
 I'm a solo developer at **código Labs** with a passion for blending art and technology.
